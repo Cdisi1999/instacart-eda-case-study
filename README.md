@@ -42,6 +42,7 @@ Create plots to display trends and distributions, ensuring they are clear and we
 
 ## Notebooks
 EDA_final_project_template.ipynb
+
 Contains the analysis, code, and visualizations for the project. Each step includes markdown explanations for clarity.
 
 ## How to Use
