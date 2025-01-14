@@ -6,6 +6,7 @@ Project Objective
 The goal of this project is to analyze modified Instacart data to gain insights into customer shopping habits. The dataset, originally released during a Kaggle competition, has been adapted with missing and duplicate values to simulate real-world challenges.
 
 Data Description
+
 The project uses the following datasets:
 
 instacart_orders.csv
@@ -24,6 +25,7 @@ departments.csv
 Contains department categories for products.
 
 Key Tasks
+
 Data Preprocessing
 
 Handle missing values.
