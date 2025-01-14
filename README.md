@@ -62,5 +62,6 @@ Contains the analysis, code, and visualizations for the project. Each step inclu
 The time and day customers typically place orders.
 Products with the highest reorder rates.
 Patterns in the number of items customers add to their carts.
-Feedback and Revisions
+
+## Feedback and Revisions
 The project has undergone a thorough review process, ensuring clarity and quality. Reviewer comments are included in the notebook for reference.
