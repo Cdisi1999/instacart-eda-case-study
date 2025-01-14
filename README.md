@@ -48,12 +48,14 @@ Contains the analysis, code, and visualizations for the project. Each step inclu
 ## How to Use
 
 1. Clone the repository:
+   
    git clone https://github.com/yourusername/instacart-eda-project.git
 
-2. Open the Jupyter Notebook
+3. Open the Jupyter Notebook
+   
      jupyter notebook EDA_final_project_template.ipynb
 
-3. Follow the steps outlined in the notebook to understand the analysis and results.
+5. Follow the steps outlined in the notebook to understand the analysis and results.
 
 ## Key Insights
 
