@@ -1,5 +1,6 @@
 # instacart-eda-case-study
 Instacart EDA Project
+
 This repository contains the exploratory data analysis (EDA) project for Instacart's grocery delivery data. The project involves cleaning and analyzing data to uncover customer shopping patterns and trends.
 
 ## Project Objective
